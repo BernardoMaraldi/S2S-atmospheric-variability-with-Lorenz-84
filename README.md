@@ -8,5 +8,5 @@ Here you will find the code to:
   - carry out bifurcation analysis (with BifurcationKit.jl);
   - obtain the various remaining figures (timeseries).
 
-When a large ensemble is used, the user will have to generate the data by integrating the equations (which might take up to 10 hours with 50000 trajectories)
+When a large ensemble is used, the user will have to generate the data by integrating the equations (which might take several hours with 50000 trajectories)
   
