@@ -1,4 +1,4 @@
-# Intraseasonal-atmospheric-variability-with-Lorenz-84
+# S2S-atmospheric-variability-with-Lorenz-84
 This repository contains the scripts used to create the figures of the paper (arXiv &/or Chaos URL). 
 All the information is provided in the code, although refer to the paper (arXiv &/or Chaos URL) for further details.
 Here you will find the code to:
